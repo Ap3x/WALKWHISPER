@@ -31,3 +31,4 @@ You can also output the Windows API function definition for further context like
 ## Credits
 
 - [ASCII TEXT Generator](http://www.patorjk.com/software/taag/)
+- [NSA Name Generator](http://ternus.github.io/nsaproductgenerator/)
