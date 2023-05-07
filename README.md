@@ -27,6 +27,20 @@ You can also output the Windows API function definition for further context like
 
 ![Screenshot2](images/ex2.png)
 
+## Undocumented Windows Internals
+As provided in the usage of WALKWHISPER it is recommended to refer to the following site, but this may not be as reliable at times and it is suggest to review some of the other links below.
+
+- http://undocumented.ntinternals.net/
+
+For WALKWHISPER it may be better for you to use the source files provided by the following repositories:
+
+- https://github.com/winsiderss/systeminformer/tree/master/phnt
+- https://github.com/processhacker/phnt
+- https://github.com/reactos/reactos
+
+You can also check out the following project, but its mainly used for Windows Kernel structures and can still be valuable
+- https://www.vergiliusproject.com/
+
 
 ## Credits
 
